@@ -38,7 +38,7 @@ const Portfolio = () => {
     }
   ];
 
-  const getStatusColor = (status: string) => {
+  const getStatusColor = (status) => {
     switch (status) {
       case 'Coming Soon':
         return 'bg-primary/20 text-primary';

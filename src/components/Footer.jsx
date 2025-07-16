@@ -28,7 +28,7 @@ const Footer = () => {
     { name: 'Instagram', icon: Instagram, href: '#' }
   ];
 
-  const scrollToSection = (sectionId: string) => {
+  const scrollToSection = (sectionId) => {
     const element = document.getElementById(sectionId.replace('#', ''));
     if (element) {
       element.scrollIntoView({ behavior: 'smooth' });
