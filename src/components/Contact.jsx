@@ -31,7 +31,7 @@ const Contact = () => {
     {
       icon: Mail,
       title: 'Email Us',
-      details: 'info@trinetrax.com',
+      details: 'info@cognitovisions.com',
       description: 'Send us your queries anytime'
     },
     {

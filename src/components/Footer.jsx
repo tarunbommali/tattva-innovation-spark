@@ -42,11 +42,11 @@ const Footer = () => {
           {/* Company Info */}
           <div className="space-y-4">
             <h3 className="text-2xl font-bold gradient-primary bg-clip-text text-transparent">
-              TrinetraX
+              Cognito Visions
             </h3>
             <p className="text-background/80 text-sm leading-relaxed">
-              Cutting-edge Full Stack Application Development with AI Capabilities. 
-              Building the future of technology, one solution at a time.
+              Intelligent AI-powered vision and cognitive solutions. 
+              Transforming ideas into reality with advanced artificial intelligence.
             </p>
             <div className="flex space-x-4">
               {socialLinks.map((social, index) => (
@@ -111,10 +111,10 @@ const Footer = () => {
               <div className="flex items-center space-x-3">
                 <Mail className="w-4 h-4 text-primary" />
                 <a
-                  href="mailto:info@trinetrax.com"
+                  href="mailto:info@cognitovisions.com"
                   className="text-background/80 hover:text-background transition-smooth text-sm"
                 >
-                  info@trinetrax.com
+                  info@cognitovisions.com
                 </a>
               </div>
               <div className="flex items-center space-x-3">
@@ -140,7 +140,7 @@ const Footer = () => {
         <div className="border-t border-background/20 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-background/60 text-sm">
-              © {currentYear} TrinetraX. All rights reserved.
+              © {currentYear} Cognito Visions. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a

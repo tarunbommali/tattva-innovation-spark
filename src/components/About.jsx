@@ -47,7 +47,7 @@ const About = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl sm:text-4xl font-bold mb-4">
-            Why Choose <span className="gradient-primary bg-clip-text text-transparent">TrinetraX</span>
+            Why Choose <span className="gradient-primary bg-clip-text text-transparent">Cognito Visions</span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
             As a dynamic startup, we bring fresh perspectives, cutting-edge expertise, and unwavering 
@@ -83,9 +83,8 @@ const About = () => {
           <div className="max-w-4xl mx-auto">
             <h3 className="text-2xl font-bold mb-6">Our Mission</h3>
             <p className="text-lg text-muted-foreground leading-relaxed mb-8">
-              At TrinetraX, we believe in the power of technology to transform businesses and lives. 
-              Our mission is to bridge the gap between cutting-edge AI capabilities and practical, scalable 
-              solutions that drive real business value.
+              At Cognito Visions, we believe in the power of artificial intelligence to transform how we perceive and interact with the world. 
+              Our mission is to develop cognitive solutions that bridge the gap between human intelligence and machine capability, creating systems that truly understand and adapt.
             </p>
             
             <div className="flex flex-wrap justify-center gap-6 text-sm">

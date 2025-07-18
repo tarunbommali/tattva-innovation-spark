@@ -32,7 +32,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center">
             <h1 className="text-2xl font-bold gradient-primary bg-clip-text text-transparent">
-              TrinetraX
+              Cognito Visions
             </h1>
           </div>
 

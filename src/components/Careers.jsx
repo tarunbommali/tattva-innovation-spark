@@ -178,7 +178,7 @@ const Careers = () => {
               Send Your Resume
             </Button>
             <Button variant="outline">
-              careers@trinetrax.com
+              careers@cognitovisions.com
             </Button>
           </div>
         </div>
