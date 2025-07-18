@@ -31,7 +31,7 @@ const Contact = () => {
     {
       icon: Mail,
       title: 'Email Us',
-      details: 'info@tattvainnovations.com',
+      details: 'info@trinetrax.com',
       description: 'Send us your queries anytime'
     },
     {
@@ -55,7 +55,7 @@ const Contact = () => {
           <h2 className="text-3xl sm:text-4xl font-bold mb-4">
             Get in <span className="gradient-primary bg-clip-text text-transparent">Touch</span>
           </h2>
-          <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
+          <p className="text-lg text-muted-foreground max-w3xl mx-auto">
             Ready to start your next project? We'd love to hear from you. 
             Let's discuss how we can bring your vision to life.
           </p>

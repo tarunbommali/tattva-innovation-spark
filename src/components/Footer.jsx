@@ -42,7 +42,7 @@ const Footer = () => {
           {/* Company Info */}
           <div className="space-y-4">
             <h3 className="text-2xl font-bold gradient-primary bg-clip-text text-transparent">
-              Tattva Innovations
+              TrinetraX
             </h3>
             <p className="text-background/80 text-sm leading-relaxed">
               Cutting-edge Full Stack Application Development with AI Capabilities. 
@@ -111,10 +111,10 @@ const Footer = () => {
               <div className="flex items-center space-x-3">
                 <Mail className="w-4 h-4 text-primary" />
                 <a
-                  href="mailto:info@tattvainnovations.com"
+                  href="mailto:info@trinetrax.com"
                   className="text-background/80 hover:text-background transition-smooth text-sm"
                 >
-                  info@tattvainnovations.com
+                  info@trinetrax.com
                 </a>
               </div>
               <div className="flex items-center space-x-3">
@@ -140,7 +140,7 @@ const Footer = () => {
         <div className="border-t border-background/20 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-background/60 text-sm">
-              © {currentYear} Tattva Innovations. All rights reserved.
+              © {currentYear} TrinetraX. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a
